@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-02-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our [paper](https://openreview.net/forum?id=N8MaByOzUfb) which investigates *the root causes of catastrophic forgetting* in class-incremental learning settings has been accepted at ICLR 2022
+

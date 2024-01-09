@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please reach out via email 😊
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: # al-folio # blog_name will be displayed in your blog page
+blog_description: # a simple whitespace theme for academics
+permalink: # /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -155,9 +155,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: # medium.com
+#     rss_url: # https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -260,12 +260,12 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
+    year:  '/blog/:year/'
     tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    category:  '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: [] #'formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_categories: [] # 'blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Caccia]
+  first_name: [Lucas]
 
   style: apa
   locale: en

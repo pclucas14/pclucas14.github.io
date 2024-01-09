@@ -13,3 +13,10 @@ Go to _pages/<page_name>.md e.g. _pages/projects.md and set `nav: false`
 5. blog posts
 You create markdown files in _posts. See _posts/2020-07-01-ewc.md   
 Some config (such as what tags appear on your blog post page) are in _config.yml
+
+6. cv 
+Description is in _pages/cv.md
+Info in _data/cv.yml
+
+7. news
+add an entry in the _news directory
