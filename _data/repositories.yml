@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pclucas14
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - microsoft/mttl
+  - pclucas14/pixel-cnn-pp
+  - pclucas14/pytorch-glow
+  - pclucas14/iaf-vae
+  - pclucas14/lidar_generation
