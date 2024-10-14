@@ -24,7 +24,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Post-Doctoral Researcher 
+    - title: Post-Doctoral Researcher
       institution: Microsoft Research
       year: 2022 - 2023
       description:
@@ -34,7 +34,7 @@
       year: 2022 - 2023
       description:
         - Working on modular approaches for efficient forward transfer in Natural Language Processing.
-        - Designed better routing mechanisms for soft MoE architectures. 
+        - Designed better routing mechanisms for soft MoE architectures.
     - title: Visiting Researcher
       institution: Meta AI Research (FAIR)
       year: 2020 - 2022
@@ -59,23 +59,21 @@
   type: nested_list
   contents:
     - title: African Institute for Mathematical Sciences (AIMS)
-      items: 
+      items:
         - <u>Teaching Assistant</u>, for a two week long Reinforcement Learning class held in Kigali, Rwanda. We prepared several tutorials covering the basics of RL (which can be found <a href="https://github.com/andrecianflone/rl_at_ammi">here</a>).
     - title: McGill University
       items:
-        - <u>Teaching Assistant</u>, COMP 551 - Applied Machine Learning Class. I gave a few tutorials on the basics of automatic differentiation in Pytorch, and held office hours for students. 
-
+        - <u>Teaching Assistant</u>, COMP 551 - Applied Machine Learning Class. I gave a few tutorials on the basics of automatic differentiation in Pytorch, and held office hours for students.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2020-2021
-      items: 
+      items:
         - <b>Borealis AI Fellowship - </b> Selected alongside 10 fellows for research and academic achievements
     - year: 2016-2019
-      items: 
+      items:
         - <b>CIBPA Foundation Bursary (Merit) - </b>Awarded to promising Canadian students of Italian descent
     - year: 2015-2016-2017
-      items: 
+      items:
         - <b>Dean's Honour List - </b> Awarded to the top 10% performing students
-

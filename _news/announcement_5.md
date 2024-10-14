@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD 😁. Thanks to my wonderful committee (Siva Reddy, Adrian Popescu, Steve Liu and Doina Precup) for the great discussions during my defense, and of course, big thank you to Joelle for supporting me throughout my PhD. 
+I successfully defended my PhD 😁. Thanks to my wonderful committee (Siva Reddy, Adrian Popescu, Steve Liu and Doina Precup) for the great discussions during my defense, and of course, big thank you to Joelle for supporting me throughout my PhD.
