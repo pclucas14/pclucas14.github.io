@@ -1,0 +1,31 @@
+1. bibliography 
+_bibliography/papers.bib
+
+2. biography 
+_pages/about.md 
+
+3. socials
+_config.yml
+
+4. turn on / off items in the (top) nav bar
+Go to _pages/<page_name>.md e.g. _pages/projects.md and set `nav: false`
+
+5. blog posts
+You create markdown files in _posts. See _posts/2020-07-01-ewc.md   
+Some config (such as what tags appear on your blog post page) are in _config.yml
+
+6. cv 
+Description is in _pages/cv.md
+Info in _data/cv.yml
+
+7. news
+add an entry in the _news directory
+
+### installing jekyll : 
+It was a real pain because of ruby install. There was a bug related to M2 macs or something. 
+This command ended up solving it
+`rvm install ruby-3.2.2 --with-openssl-dir=/opt/homebrew/opt/openssl@1.1`
+
+### updating much later
+because the Docker Image fetch is always the latest, I had to update from the al-folio master branch
+
